@@ -1,1 +1,1 @@
-# financial-portfolio-optimization
+# fashion-trends
