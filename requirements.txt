@@ -1,0 +1,12 @@
+yfinance
+pytrends
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+vaderSentiment
+feedparser
+fredapi
+jupyter
+requests
